@@ -1,0 +1,17 @@
+:root {
+   --white-color: #ffffff;
+  --black-color: #020403;
+  --gray-color: #adadad;
+  
+  
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  
+}
+
+a {
+  text-decoration: none;
+  
+}
