@@ -255,7 +255,14 @@ color:  var(--white-color);
   margin-right: 150px;
   margin-top: 40px;
   color: var(--gray-color);
-  margin: bottom 600px;;
+  width: 150px;
+  
+}
+
+.empresas1{
+
+  width: 100px;
+  
   
 }
 
@@ -279,6 +286,7 @@ color:  var(--white-color);
   align-items: center;
   background-color: var(--black-color);
   color: var(--black-color);
+  
 }
 
 
@@ -332,8 +340,6 @@ color:  var(--white-color);
 
 
 .tituloContacto{
-
-  margin-right: 220px;
   color: #ffffff;
   margin-top: 10px;
 
@@ -345,6 +351,7 @@ color:  var(--white-color);
   flex-direction: row;
   justify-content: center;
   background-color: #020403;
+  gap: 150px;
 }
 
 
@@ -353,6 +360,7 @@ color:  var(--white-color);
   flex-direction: column;
   align-items: center;
   color: #adadad;
+  width: 100px;
   
 }
 
@@ -369,6 +377,7 @@ color:  var(--white-color);
   flex-direction: column;
   align-items: center;
   color: #adadad;
+  width: 100px;
 
 }
 
@@ -420,6 +429,8 @@ color:  var(--white-color);
 
 
 
+/* hasta aqui  ************************************/
+
 
 
 
@@ -461,13 +472,14 @@ color:  var(--white-color);
   flex-direction: row;
   justify-content: center;
   background-color: var(--black-color);
+  
 }
 
 
 
 .fecha1{
   margin-right: 150px;
-  margin-top: 40px;
+  margin-top: 80px;
   color: var(--gray-color);
   margin: bottom 600px;;
   
@@ -498,6 +510,19 @@ color:  var(--white-color);
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
